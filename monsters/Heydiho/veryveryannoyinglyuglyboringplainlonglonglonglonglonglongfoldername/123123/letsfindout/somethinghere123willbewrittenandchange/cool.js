@@ -1,7 +1,7 @@
 const name = "boi";
 
 if (name == "boi") {
-    console.log("failure");
+    console.log("heyho");
 } else {
     console.log("still failure");
 }
