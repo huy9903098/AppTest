@@ -1,9 +1,7 @@
-const word = 'magic';
+const word = "magic";
 
-if(word == 'magic'){
-    console.log("Damn that's beautiful");
-    word = 'hell'
-}else{
-    console.log('Damn that nasty');
-    
+if (word == "magic") {
+    word = "gnome";
+} else {
+    console.log("Damn that nasty");
 }
