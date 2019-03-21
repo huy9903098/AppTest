@@ -9,15 +9,16 @@ class App extends Component {
                 <div>Changes stuff</div>
                 <header className="App-header">
                     <img src={logo} className="App-logo" alt="logo" />
-                    <p>Edit Copy an you win</p>
+                    <p>No no</p>
                     <a
                         className="App-link"
                         href="https://reactjs.org"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        Learn Softagram
+                        Hack Softagram
                     </a>
+                    <p>It's coding time</p>
                 </header>
             </div>
         );
