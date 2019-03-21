@@ -1,6 +1,6 @@
-const tyu = "boi";
+const kkk = "boi";
 
-if (tyu == "boi") {
+if (kkk == "boi") {
     console.log("heyho");
 } else {
     console.log("still failure");
