@@ -1,6 +1,6 @@
-const name = "boi";
+const tyu = "boi";
 
-if (name == "boi") {
+if (tyu == "boi") {
     console.log("heyho");
 } else {
     console.log("still failure");
