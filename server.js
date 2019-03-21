@@ -1,7 +1,7 @@
-const express = require('express');
-const validation = require('validation');
+const express = require("express");
+
 const app = express();
 
-app.get('/',(res,req)=> res.send('Goodbye') );
+app.get("/", (res, req) => res.send("Goodbye"));
 
-app.get('/god',(res,req)=> res.send('God Hello') );
+app.get("/dont", (res, req) => res.send("Dont do this "));
