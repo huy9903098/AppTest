@@ -1,6 +1,6 @@
-const ggg = "boi";
+const hoo = "hoo";
 
-if (ggg == "boi") {
+if (hoo == "hoo") {
     console.log("heyho");
 } else {
     console.log("still failure");
