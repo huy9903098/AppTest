@@ -8,9 +8,7 @@ class App extends Component {
             <div className="App">
                 <header className="App-header">
                     <img src={logo} className="App-logo" alt="logo" />
-                    <p>
-                        Edit nothing to reload.
-                    </p>
+                    <p>Edit foolasdasd reload.</p>
                     <a
                         className="App-link"
                         href="https://reactjs.org"
